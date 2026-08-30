@@ -1,0 +1,42 @@
+{
+    "id": 110619806,
+    "name": "HUMAN",
+    "author": "Iconic",
+    "creators": ["Dreamlight"],
+    "verifier": "Iconic",
+    "verification": "https://www.youtube.com/watch?v=pjfPEvbpVE8",
+    "percentToQualify": "100",
+    "requiredfps": "144",
+    "records": [
+        {
+            "user": "IAmNot60Hz",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+       {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+       {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Cookie",
+            "link": "https://www.youtube.com/watch?v=LG4otQQ_eAs",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
