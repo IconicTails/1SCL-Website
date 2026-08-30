@@ -1,0 +1,24 @@
+{
+    "id":124306240,
+    "name": "Doom 2016",
+    "author": "Flowerboy",
+    "creators": ["Flowerboy"],
+    "verifier": "Flowerboy",
+    "verification": "https://www.youtube.com/watch?v=hJBc2j0D2LA",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
