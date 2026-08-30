@@ -18,13 +18,17 @@ export function score(rank, percent, minPercent) {
         return 0;
     }
 
+function log83(x) {
+    return Math.log(x) / Math.log(83);
+}
+
     // Old formula
     /*
     let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
     // New formula
-    let score = (500 * (1 - (Math.log(rank + 4) / Math.log(83)(rank + 4)));
+    let score = (500 * (1 - log83(rank + 4)));
 
     score = Math.max(0, score);
 
