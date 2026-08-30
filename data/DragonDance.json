@@ -6,7 +6,7 @@
     "verifier": "Aurorae",
     "verification": "https://www.youtube.com/watch?v=7vIlvv-hcIY",
     "percentToQualify": 100,
-    "requiredfps": "60FPS",
+    "requiredfps": "60",
     "records": [
     ]
 }
