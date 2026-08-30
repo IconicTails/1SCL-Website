@@ -1,0 +1,36 @@
+{
+    "id": 104370578,
+    "name": "pain",
+    "author": "gizmo150",
+    "creators": ["gizmo150", "vanious"],
+    "verifier": "IAmNot60Hz",
+    "verification": "https://www.youtube.com/watch?v=C9yGw3932Y8",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "https://www.youtube.com/watch?v=C9yGw3932Y8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flowerboy",
+            "link": "https://www.youtube.com/watch?v=mNcWFvsgSLU",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
