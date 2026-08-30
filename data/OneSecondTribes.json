@@ -6,13 +6,13 @@
     "verifier": "Calegar",
     "verification": "https://www.youtube.com/watch?v=-0-PIFo9Dm0",
     "percentToQualify": "100",
-    "requiredfps": "60",
+    "requiredfps": "240",
     "records": [
         {
             "user": "Iconic",
             "link": "",
             "percent": 100,
-            "hz": 60
+            "hz": 240
         }
     ]
 }
