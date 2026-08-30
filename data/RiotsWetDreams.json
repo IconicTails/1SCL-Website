@@ -1,24 +1,30 @@
 {
     "id": 109849056,
-    "name": "Sodium Triphosphate",
-    "author": "th3name",
-    "creators": ["Yaroslap"],
-    "verifier": "th3name",
-    "verification": "https://www.youtube.com/watch?v=zmVXfrQdI6g",
+    "name": "Riots Wet Dreams",
+    "author": "gizmo150",
+    "creators": ["Fwffles"],
+    "verifier": "IAmNot60Hz",
+    "verification": "https://www.youtube.com/watch?v=Wafi22D5xS4",
     "percentToQualify": "100",
-    "requiredfps": "60",
+    "requiredfps": "240",
     "records": [
         {
-            "user": "IAmNot60Hz",
-            "link": "https://www.youtube.com/watch?v=s8Zlfgl6SR8",
+            "user": "Iconic",
+            "link": "https://www.youtube.com/watch?v=eKuv6S7nGHM&t=981s",
             "percent": 100,
-            "hz": 60
+            "hz": 240
         },
         {
-            "user": "Doug",
+            "user": "Flowerboy",
+            "link": "https://www.youtube.com/watch?v=2x8NNV6EfEo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Blaze",
             "link": "",
             "percent": 100,
-            "hz": 60
+            "hz": 240
         }
     ]
 }
