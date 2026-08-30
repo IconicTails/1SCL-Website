@@ -1,0 +1,18 @@
+{
+    "id": 112623059,
+    "name": "Angel of Spikes",
+    "author": "Flowerboy",
+    "creators": ["Flowerboy"],
+    "verifier": "Flowerboy",
+    "verification": "https://www.youtube.com/watch?v=fBRCo0Zx0oc",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
