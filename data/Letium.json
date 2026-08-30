@@ -1,0 +1,24 @@
+{
+    "id": 117014469,
+    "name": "Letium",
+    "author": "ㅇㅅㅎ",
+    "creators": ["ㅇㅅㅎ"],
+    "verifier": "ㅇㅅㅎ",
+    "verification": "https://youtu.be/VjeV3MNVpak?feature=shared",
+    "percentToQualify": 100,
+    "requiredfps": "89",
+    "records": [
+      {
+            "user": "Iconic",
+            "percent": 100
+      },
+      {
+            "user": "MayoYoma",
+            "percent": 100
+      },
+      {
+            "user": "straightflys",
+            "percent": 100
+      }
+    ]
+}
