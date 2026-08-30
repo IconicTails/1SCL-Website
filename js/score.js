@@ -28,7 +28,7 @@ function log83(x) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
     // New formula
-    let score = (500 * (1 - log83(rank + 4)));
+    let score = (500 * (1 - log83(rank)));
 
     score = Math.max(0, score);
 
