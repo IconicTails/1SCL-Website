@@ -6,7 +6,7 @@
     "verifier": "Dreamlight",
     "verification": "https://youtu.be/MNMii7swabY",
     "percentToQualify": "100",
-    "requiredfps": "360 2.1", "240",
+    "requiredfps": ["360 2.1", "240"],
     "records": [
         {
             "user": "MayoYoma",
