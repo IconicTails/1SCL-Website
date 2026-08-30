@@ -1,0 +1,24 @@
+{
+    "id":110027059,
+    "name": "void",
+    "author": "IAmNot60Hz",
+    "creators": ["IAmNot60Hz"],
+    "verifier": "IAmNot60Hz",
+    "verification": "https://youtu.be/VVAkfKHt2Yk",
+    "percentToQualify": "100",
+    "requiredfps": "119",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "https://youtu.be/VVAkfKHt2Yk",
+            "percent": 100,
+            "hz": 119
+        },
+        {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 119
+        }
+    ]
+}
