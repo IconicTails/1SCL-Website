@@ -1,0 +1,36 @@
+{
+    "id": 112519901,
+    "name": "Crimson Ball",
+    "author": "Iconic",
+    "creators": ["Iconic"],
+    "verifier": "Iconic",
+    "verification": "https://www.youtube.com/watch?v=wqYK3fgcGDo",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flowerboy",
+            "link": "https://www.youtube.com/watch?v=Do_JXMZGvHg",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Cookie",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
