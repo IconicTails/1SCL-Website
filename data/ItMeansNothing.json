@@ -1,0 +1,18 @@
+{
+    "id": 116603168,
+    "name": "it means nothing",
+    "author": "xavi",
+    "creators": ["xavi"],
+    "verifier": "Iconic",
+    "verification": "https://youtu.be/OQweYod5RPo",
+    "percentToQualify": "100",
+    "requiredfps": "60",
+    "records": [
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
