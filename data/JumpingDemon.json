@@ -1,0 +1,18 @@
+{
+    "id": 118734258,
+    "name": "Jumping Demon",
+    "author": "Calegar",
+    "creators": ["Calegar"],
+    "verifier": "Calegar",
+    "verification": "https://www.youtube.com/watch?v=Lj_Ku9WcUMo",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
