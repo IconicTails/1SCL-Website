@@ -1,0 +1,30 @@
+{
+    "id": 116382584,
+    "name": "maybe bbq",
+    "author": "Blaze",
+    "creators": ["Blaze", "gizmo150"],
+    "verifier": "Blaze",
+    "verification": "https://www.youtube.com/watch?v=xE30leG5sdU",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flowerboy",
+            "link": "https://www.youtube.com/watch?v=4f1yE7EAFgE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
