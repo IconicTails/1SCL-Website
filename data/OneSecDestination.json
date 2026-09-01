@@ -1,0 +1,48 @@
+{
+    "id": 92150485,
+    "name": "1 sec destination",
+    "author": "Iconic",
+    "creators": ["Iconic"],
+    "verifier": "Iconic",
+    "verification": "https://youtu.be/S_i7R_z3eBY",
+    "percentToQualify": "100",
+    "requiredfps": "144",
+    "records": [
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Rectic",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+       {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+       {
+            "user": "Moonfrost",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+       {
+            "user": "Flowerboy",
+            "link": "https://www.youtube.com/watch?v=P6dtWrbTt5k",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "tFluffy",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
