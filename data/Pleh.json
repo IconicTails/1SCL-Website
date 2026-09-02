@@ -1,0 +1,24 @@
+{
+    "id": 110797730,
+    "name": "ppplllleh",
+    "author": "Matsuba",
+    "creators": ["Matsuba"],
+    "verifier": "Matsuba",
+    "verification": "https://www.youtube.com/watch?v=k2D8hMFSZlQ",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
