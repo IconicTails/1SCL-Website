@@ -1,0 +1,24 @@
+{
+    "id": 127372150,
+    "name": "love",
+    "author": "Flowerboy",
+    "creators": ["Flowerboy"],
+    "verifier": "Flowerboy",
+    "verification": "https://youtu.be/APsRtmtBl-4",
+    "percentToQualify": "100",
+    "requiredfps": "120",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
