@@ -1,0 +1,24 @@
+{
+    "id": 123839110,
+    "name": "2024 MUSIC",
+    "author": "Blaze",
+    "creators": ["Blaze"],
+    "verifier": "Blaze",
+    "verification": "https://youtu.be/XfcdX0sPUdM",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
