@@ -1,0 +1,30 @@
+{
+    "id": 113189495,
+    "name": "Prism",
+    "author": "Iconic",
+    "creators": ["Iconic"],
+    "verifier": "Iconic",
+    "verification": "https://youtu.be/pS6lcYRwFls",
+    "percentToQualify": "100",
+    "requiredfps": "120",
+    "records": [
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
