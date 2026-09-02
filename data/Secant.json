@@ -1,0 +1,48 @@
+{
+    "id": 107255188,
+    "name": "Secant",
+    "author": "Iconic",
+    "creators": ["Iconic"],
+    "verifier": "Iconic",
+    "verification": "https://youtu.be/q8i7ftd5tnM",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "IAmNot60Hz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Cookie",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "iamfinley",
+            "link": "https://youtu.be/FZ5cH2KdUmg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
