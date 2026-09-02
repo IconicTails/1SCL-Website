@@ -1,0 +1,30 @@
+{
+    "id": 91654885,
+    "name": "spike dashed",
+    "author": "coffin",
+    "creators": ["coffin"],
+    "verifier": "coffin",
+    "verification": "https://www.youtube.com/watch?v=OzxaqG-dXec",
+    "percentToQualify": "100",
+    "requiredfps": ["360", "240 2.2"],
+    "records": [
+        {
+            "user": "Rectic",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
