@@ -1,0 +1,36 @@
+{
+    "id": 115602773,
+    "name": "Iconic Wave",
+    "author": "Flowerboy",
+    "creators": ["Flowerboy"],
+    "verifier": "Flowerboy",
+    "verification": "https://www.youtube.com/watch?v=45haxOVOqEQ",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Calegar",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
