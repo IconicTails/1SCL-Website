@@ -1,0 +1,60 @@
+{
+    "id": 91615323,
+    "name": "Para 1 sec balla",
+    "author": "Iconic",
+    "creators": ["Iconic"],
+    "verifier": "Iconic",
+    "verification": "https://www.youtube.com/watch?v=qI2bSWUIe1Y",
+    "percentToQualify": "100",
+    "requiredfps": "60",
+    "records": [
+        {
+            "user": "Rectic",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "coffin",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Draven",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+       {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+       {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "IAmNot60Hz",
+            "link": "https://www.youtube.com/watch?v=dWJsHIdEs74",
+            "percent": 100,
+            "hz": 60
+        },
+      {
+            "user": "th3name",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
