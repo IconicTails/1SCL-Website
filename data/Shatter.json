@@ -1,0 +1,24 @@
+{
+    "id": 115683075,
+    "name": "Shatter",
+    "author": "Iconic",
+    "creators": ["Iconic"],
+    "verifier": "Iconic",
+    "verification": "https://youtu.be/jyZykGWHf6A",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
