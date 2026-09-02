@@ -1,0 +1,18 @@
+{
+    "id": 119236414,
+    "name": "3 seconds evil",
+    "author": "NucDev",
+    "creators": ["NucDev", "Hellfire"],
+    "verifier": "NucDev",
+    "verification": "https://www.youtube.com/watch?v=uB3Y1_WXmtY",
+    "percentToQualify": "100",
+    "requiredfps": "120",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
