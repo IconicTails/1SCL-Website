@@ -1,0 +1,42 @@
+{
+    "id": 104286280,
+    "name": "THE RUINS OF HELL",
+    "author": "Iconic",
+    "creators": ["Iconic"],
+    "verifier": "Iconic",
+    "verification": "https://youtu.be/lYpQlC2fYLU",
+    "percentToQualify": "100",
+    "requiredfps": "144",
+    "records": [
+        {
+            "user": "IAmNot60Hz",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+       {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+         {
+            "user": "iamfinley",
+            "link": "https://youtu.be/Kj8wSV82wXQ",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
