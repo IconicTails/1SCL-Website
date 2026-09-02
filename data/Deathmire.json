@@ -1,0 +1,30 @@
+{
+    "id": 113483750,
+    "name": "Deathmire",
+    "author": "Flowerboy",
+    "creators": ["Anceps"],
+    "verifier": "Flowerboy",
+    "verification": "https://youtu.be/7jyjEm9A6xs?si=LbN1L4FCeocB6Dx5",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
