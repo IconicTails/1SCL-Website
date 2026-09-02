@@ -1,0 +1,36 @@
+{
+    "id": 114223747,
+    "name": "Ds1nK",
+    "author": "MayoYoma",
+    "creators": ["MayoYoma"],
+    "verifier": "MayoYoma",
+    "verification": "https://youtu.be/EyO9xia5gao",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "IAmNot60Hz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
