@@ -1,0 +1,18 @@
+{
+    "id": 92873397,
+    "name": "Constipation",
+    "author": "Cubiminx",
+    "creators": ["Cubiminx"],
+    "verifier": "IAmNot60Hz",
+    "verification": "https://www.youtube.com/watch?v=0eqLutd-kEk",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "https://www.youtube.com/watch?v=0eqLutd-kEk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
