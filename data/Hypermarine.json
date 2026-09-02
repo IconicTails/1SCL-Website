@@ -1,0 +1,30 @@
+{
+    "id": 148183129,
+    "name": "Hypermarine",
+    "author": "MattiMakkara",
+    "creators": ["MattiMakkara"],
+    "verifier": "Flowerboy",
+    "verification": "https://youtu.be/0Hnh0Jnm_KE?si=wOQJd4nbOLSC2FYE",
+    "percentToQualify": "100",
+    "requiredfps": "Any",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Calegar",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LetzTiz",
+            "link": "https://youtu.be/weBVK9orb_k?si=KP0jUqoTvgPItclr",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
