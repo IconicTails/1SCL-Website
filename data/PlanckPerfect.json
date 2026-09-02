@@ -1,0 +1,24 @@
+{
+    "id":118560972,
+    "name": "Planck Perfect",
+    "author": "Calegar",
+    "creators": ["Calegar"],
+    "verifier": "Calegar",
+    "verification": "https://youtu.be/9hf5StvAn3Y",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "https://youtu.be/9hf5StvAn3Y",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
