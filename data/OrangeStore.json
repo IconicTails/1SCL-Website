@@ -1,0 +1,36 @@
+{
+    "id": 92702365,
+    "name": "orange store",
+    "author": "MayoYoma",
+    "creators": ["MayoYoma"],
+    "verifier": "MayoYoma",
+    "verification": "https://youtu.be/5nT2TYHdBWU",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "IAmNot60Hz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
