@@ -1,0 +1,23 @@
+{
+    "id": 121806679,
+    "name": "Ghana Tape",
+    "author": "bawlz",
+    "creators": ["bawlz"],
+    "verifier": "njacked",
+    "verification": "https://youtu.be/jnnNYE2YGeY",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
