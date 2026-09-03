@@ -1,0 +1,30 @@
+{
+    "id": 110051981,
+    "name": "White Claw 24 Pack",
+    "author": "Blaze",
+    "creators": ["Nyoom", "Blaze"],
+    "verifier": "Blaze",
+    "verification": "https://www.youtube.com/watch?v=5ZPTFCxsmuE",
+    "percentToQualify": "100",
+    "requiredfps": ["240"],
+    "records": [
+        {
+            "user": "IAmNot60Hz",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
