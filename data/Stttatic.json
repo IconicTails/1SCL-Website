@@ -1,0 +1,30 @@
+{
+    "id": 108028231,
+    "name": "stttatic",
+    "author": "MayoYoma",
+    "creators": ["MayoYoma"],
+    "verifier": "MayoYoma",
+    "verification": "https://youtu.be/_lKSZnUMBLs",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "IAmNot60Hz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
