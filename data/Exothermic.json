@@ -1,0 +1,24 @@
+{
+    "id": 118675427,
+    "name": "exothermic",
+    "author": "MayoYoma",
+    "creators": ["xavi"],
+    "verifier": "MayoYoma",
+    "verification": "https://youtu.be/MDAGL20iKdc",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
