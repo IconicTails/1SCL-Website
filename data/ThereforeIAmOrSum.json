@@ -1,0 +1,18 @@
+{
+    "id": 131705548,
+    "name": "therefor i am or sum",
+    "author": "Flowerboy",
+    "creators": ["Flowerboy"],
+    "verifier": "Flowerboy",
+    "verification": "https://youtu.be/3afC9Gni3UE",
+    "percentToQualify": "100",
+    "requiredfps": "CBF",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}
