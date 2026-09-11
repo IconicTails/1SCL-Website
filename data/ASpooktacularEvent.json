@@ -9,31 +9,37 @@
     "requiredfps": "360",
     "records": [
         {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "IAmNot60Hz",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+      {
             "user": "Iconic",
             "link": "",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "MayoYoma",
+            "user": "Flowerboy",
             "link": "",
             "percent": 100,
             "hz": 360
         },
-      {
-            "user": "tFluffy",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Calegar",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        },
-        {
+         {
             "user": "Cookie",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tFluffy",
             "link": "",
             "percent": 100,
             "hz": 360
