@@ -1,0 +1,30 @@
+{
+    "id": 116227469,
+    "name": "Wacheronx",
+    "author": "MayoYoma",
+    "creators": ["MayoYoma"],
+    "verifier": "MayoYoma",
+    "verification": "https://youtu.be/LQWQ6gwgq9g",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
