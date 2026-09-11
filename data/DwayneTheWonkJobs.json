@@ -1,0 +1,30 @@
+{
+    "id": 123925028,
+    "name": "dwayne the wonk jobs",
+    "author": "Blaze",
+    "creators": ["Blaze"],
+    "verifier": "Blaze",
+    "verification": "https://youtu.be/-cN-plqeFjc",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "IAmNot60Hz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
