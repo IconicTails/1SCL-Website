@@ -1,0 +1,30 @@
+{
+    "id": 144087548,
+    "name": "Restart",
+    "author": "PalacePacific",
+    "creators": ["PalacePacific"],
+    "verifier": "PalacePacific",
+    "verification": "https://youtu.be/wXuZs6uma4s",
+    "percentToQualify": "100",
+    "requiredfps": "CBF",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": CBF
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": CBF
+        },
+        {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": CBF
+        }
+    ]
+}
