@@ -1,0 +1,36 @@
+{
+    "id": 110117212,
+    "name": "PKMDDRBI",
+    "author": "Iconic",
+    "creators": ["ProudGiraffe311","TheKiller10464", "Matsuba", "Dreamlight", "Draconyx", "Rectic", "Blaze", "Iconic"],
+    "verifier": "Iconic",
+    "verification": "https://youtu.be/UqdXvKYdKq4",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "IAmNot60Hz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
