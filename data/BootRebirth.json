@@ -1,0 +1,24 @@
+{
+    "id": 145111318,
+    "name": "boot rebirth",
+    "author": "sorrow",
+    "creators": ["sorrow"],
+    "verifier": "sorrow",
+    "verification": "https://www.youtube.com/watch?v=uer6J-7kMzw",
+    "percentToQualify": "100",
+    "requiredfps": "CBF",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}
