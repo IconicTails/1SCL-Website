@@ -1,0 +1,18 @@
+{
+    "id": 110622053,
+    "name": "3RR01R",
+    "author": "gizmo150",
+    "creators": ["gizmo150"],
+    "verifier": "Iconic",
+    "verification": "https://youtu.be/oi-txM-2aLE",
+    "percentToQualify": "100",
+    "requiredfps": "144",
+    "records": [
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": "144"
+        }
+    ]
+}
