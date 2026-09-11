@@ -1,0 +1,36 @@
+{
+    "id": 92160686,
+    "name": "uplayed",
+    "author": "coffin",
+    "creators": ["coffin"],
+    "verifier": "coffin",
+    "verification": "https://youtu.be/NbSyR-IwJuE",
+    "percentToQualify": "100",
+    "requiredfps": "60",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "IAmNot60Hz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
