@@ -1,0 +1,42 @@
+{
+    "id": 99696596,
+    "name": "1 second bootytail",
+    "author": "Blaze",
+    "creators": ["Blaze"],
+    "verifier": "Blaze",
+    "verification": "https://www.youtube.com/watch?v=wBSYuayYEE8",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "tFluffy",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Calegar",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Cookie",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
