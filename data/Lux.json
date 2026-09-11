@@ -1,0 +1,36 @@
+{
+    "id": 113963419,
+    "name": "Lux",
+    "author": "Blaze",
+    "creators": ["Blaze"],
+    "verifier": "Blaze",
+    "verification": "https://www.youtube.com/watch?v=iF8Nt0oDsbc",
+    "percentToQualify": "100",
+    "requiredfps": "240",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "IAmNot60Hz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
