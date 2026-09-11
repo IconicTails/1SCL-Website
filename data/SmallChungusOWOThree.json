@@ -1,0 +1,72 @@
+{
+    "id": 91628117,
+    "name": "small chungus owo 3",
+    "author": "ProudGiraffe311",
+    "creators": ["TheKiller10464"],
+    "verifier": "TheKiller10464",
+    "verification": "https://youtu.be/bMuR0aacy9E",
+    "percentToQualify": "100",
+    "requiredfps": ["61"],
+    "records": [
+        {
+            "user": "ProudGiraffe311",
+            "link": "",
+            "percent": 100,
+            "hz": 61
+        },
+        {
+            "user": "Rectic",
+            "link": "",
+            "percent": 100,
+            "hz": 61
+        },
+       {
+            "user": "Whizkid05",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Draconyx",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "dubdundub",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "coffin",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "IAmNot60Hz",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
