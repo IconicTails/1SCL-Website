@@ -1,0 +1,24 @@
+{
+    "id": 145111318,
+    "name": "boot rebirth",
+    "author": "tFluffy",
+    "creators": ["tFluffy"],
+    "verifier": "tFluffy",
+    "verification": "https://youtu.be/P_vfTdG1ns0",
+    "percentToQualify": "100",
+    "requiredfps": "80",
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": "80"
+        },
+        {
+            "user": "zis08",
+            "link": "",
+            "percent": 100,
+            "hz": "80"
+        }
+    ]
+}
