@@ -1,0 +1,48 @@
+{
+    "id": 104556276,
+    "name": "SubsequentPerfection",
+    "author": "gizmo150",
+    "creators": ["gizmo150"],
+    "verifier": "Iconic",
+    "verification": "https://youtu.be/1kAiE9p0gKU",
+    "percentToQualify": "100",
+    "requiredfps": ["360", "CBF"],
+    "records": [
+        {
+            "user": "Iconic",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MayoYoma",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Blaze",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Flowerboy",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "scarlet",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ZenosSins",
+            "link": "https://www.youtube.com/watch?v=8wt1EIEcof0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
