@@ -10,11 +10,15 @@
     "records": [
       {
             "user": "Iconic",
-            "percent": 100
+            "link": "",
+            "percent": 100,
+            "hz": 89
       },
       {
             "user": "MayoYoma",
-            "percent": 100
+            "link": "",
+            "percent": 100,
+            "hz": 89
       }
     ]
 }
