@@ -9,15 +9,27 @@
     "records": [
         {
             "user": "Iconic",
+             "link": "",
+            "percent": 100,
+            "hz": 240
         },
           {
             "user": "MayoYoma",
+               "link": "",
+            "percent": 100,
+            "hz": 240
         },
          {
             "user": "Flowerboy",
+              "link": "",
+            "percent": 100,
+            "hz": 240
         },
         {
             "user": "th3name",
+             "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
