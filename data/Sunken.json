@@ -6,6 +6,7 @@
     "verifier": "Blaze",
     "verification": "https://youtu.be/ksK-AwNdWYg",
     "percentToQualify": "100",
+    "requiredfps": ["240"],
     "records": [
         {
             "user": "Iconic",
