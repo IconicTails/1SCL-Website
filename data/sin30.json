@@ -1,0 +1,54 @@
+{
+    "id": 93768174,
+    "name": "sin30",
+    "author": "Dan2D",
+    "creators": ["Dan2D"],
+    "verifier": "Dan2D",
+    "verification": "https://youtu.be/Bz9qrzmiABE",
+    "percentToQualify": "100",
+    "requiredfps": ["240"],
+    "records": [
+        {
+            "user": "MayoYoma",
+             "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+          {
+            "user": "IAmNot60Hz",
+               "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "Iconic",
+              "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+           {
+            "user": "Blaze",
+              "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+           {
+            "user": "tFluffy",
+              "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+           {
+            "user": "th3name",
+              "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DivineFractalX",
+             "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
